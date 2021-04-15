@@ -1,17 +1,23 @@
 {
-  "name": "TELECARROIPTV",
-  "author": "TELECARROIPTV",
+  "name": "NK-IPTV",
+  "author": "NK-PTOJECT",
   "url": "",
-  "down": "https://pastebin.com/raw/2i4VwdYi",
+  "down": "",
   "epg": "",
-  "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flh3.googleusercontent.com%2Fn8p4WlGMuu66IFVJZng_ym7ikA0yzBRfCaSgw8j6vM44p9t11CR-L7MQCVauLGoIryA%3Dw300&f=1&nofb=1",
+  "image": "https://cdn.discordapp.com/attachments/825005362524323906/832302957369753630/NK-LOGO.png",
   "telegram": "",
-  "info": "Playlist",
+  "info": "NK-PROJECT IPTV SERVICE. Do NOT share with anyone the codes.",
   "groups": [
     {
       "name": "Nacionales",
       "image": "",
       "stations": [
+              {
+          "name": "NK-IPTV",
+          "image": "https://cdn.discordapp.com/attachments/825005362524323906/832302957369753630/NK-LOGO.png",
+          "url": "",
+          "epgId": "NK-IPTV"
+        },
         {
           "name": "LA 1",
           "image": "img/canales/la1.png",
